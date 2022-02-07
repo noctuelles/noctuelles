@@ -1,6 +1,6 @@
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/plouvel)](https://github.com/JaeSeoKim/badge42)
+# 42 School
 
-# 42 School Projects
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/plouvel)](https://github.com/JaeSeoKim/badge42)
 
 | Project                                                     | How cool ?                         | How difficult ?         | Has a great README ? | Language   | Goal                                                                              |
 |-------------------------------------------------------------|------------------------------------|-------------------------|----------------------|------------|-----------------------------------------------------------------------------------|
