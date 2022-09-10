@@ -1,9 +1,9 @@
 # 42 School
 
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/plouvel)](https://github.com/JaeSeoKim/badge42)
-
 ## 42 Project
 
+<details>
+<summary>Projects</summary>
 | Project                                                       | How cool ?                         | How difficult ?         | Has a great README ? | Language   | Goal                                                                              |
 |---------------------------------------------------------------|------------------------------------|-------------------------|----------------------|------------|-----------------------------------------------------------------------------------|
 | [minitalk](https://github.com/noctuelles/42-minitalk)         | :star: :star: :star: :star:        | :anger: :anger:         | :heavy_check_mark:   | C          | Discovering UNIX signals & bitwise.                                               |
@@ -15,3 +15,4 @@
 | [push_swap](https://github.com/noctuelles/42-push_swap)       | :star: :star: :star: :star:        | :anger: :anger: :anger: | :heavy_check_mark:   | C          | Sorting an array of integer with the least move using push_swap instruction set.  |
 | [rush_libunit](https://github.com/noctuelles/42-rush_libunit) | :star: :star: :star: :star:        | :anger:                 | :heavy_check_mark:   | C          | Making a framework for a unit test.                                               |
 | [rush_AlCu](https://github.com/noctuelles/42-rush_AlCu)       | :star: :star: :star: :star:        | :anger: :anger:         | :heavy_check_mark:   | C          | Creating a nim misere game and making a small AI.                                 |
+</details>
