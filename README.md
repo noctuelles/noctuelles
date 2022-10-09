@@ -25,7 +25,18 @@ Rushes are weekend project that starts Friday at 8:42pm and ends Sunday at 11:42
 
 Subjects are usually hard and requieres a lot of investment : they can asks you to re-create a Space Invader game in your terminal using C/C++, create a Connect4 AI, or use a 30 years old forgotten language like YASL (no this is not Yet Another Scripting Language, you won't find any documentation on the web..) to display encrypted image on your terminal.
 
-I loved them all, and i hope the pedadogy of 42 Paris (or even around the world) will maintain these exercices : they provide essential challenge to keep us outside our confort zone.
+I loved them all, and i hope the pedadogy of 42 Paris (or even around the world) will maintain these exercices : they provide essential challenges to keep us outside our confort zone.
+
+You can find below all the rush that i did.
+
+|       Name       |          How cool ?         | Language |                                                      Description                                                      |
+|:----------------:|:---------------------------:|:--------:|:---------------------------------------------------------------------------------------------------------------------:|
+|    **Libunit**   |     :star: :star: :star:    |     C    |                                   _Making a unit-test framework in C using fork()._                                   |
+|     **AlCu**     |     :star: :star: :star:    |     C    |                                  _Creating a nim misere game and making a small AI._                                  |
+| **Wong kar Wai** |     :star: :star: :star:    |     C    |                                    _A 2048 game in the terminal using libncurses._                                    |
+|     **Yasl**     | :star: :star: :star: :star: |   YASL   | _Solving a set of exercices and creating a script that decodes Base64 encoded images and display it on the terminal._ |
+|    **Wordle**    |     :star: :star: :star:    |  Python  |                                    _Re-creating the famous game wordle in Python._                                    |
+|   **Connect4**   | :star: :star: :star: :star: |     C    |       _A connect4 game in the terminal with a powerful AI using the minimax algorithm with Alpha Beta pruning._       |
 
 
 </details>
