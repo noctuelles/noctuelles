@@ -29,13 +29,13 @@ I loved them all, and i hope the pedadogy of 42 Paris (or even around the world)
 
 You can find below all the rush that i did.
 
-|       Name       |          How cool ?         | Language |          Grade         |                                                      Description                                                      |
-|:----------------:|:---------------------------:|:--------:|:----------------------:|:---------------------------------------------------------------------------------------------------------------------:|
-|    **Libunit**   |     :star: :star: :star:    |     C    | 114 :heavy_check_mark: |                                   _Making a unit-test framework in C using fork()._                                   |
-|     **AlCu**     |     :star: :star: :star:    |     C    | 102 :heavy_check_mark: |                                  _Creating a nim misere game and making a small AI._                                  |
-| **Wong kar Wai** |     :star: :star: :star:    |     C    | 115 :heavy_check_mark: |                                    _A 2048 game in the terminal using libncurses._                                    |
-|     **Yasl**     | :star: :star: :star: :star: |   YASL   | 100 :heavy_check_mark: | _Solving a set of exercices and creating a script that decodes Base64 encoded images and display it on the terminal._ |
-|    **Wordle**    |     :star: :star: :star:    |  Python  | 100 :heavy_check_mark: |                                    _Re-creating the famous game wordle in Python._                                    |
-|   **Connect4**   | :star: :star: :star: :star: |     C    | 100 :heavy_check_mark: |       _A connect4 game in the terminal with a powerful AI using the minimax algorithm with Alpha Beta pruning._       |
+|       Name       |          How cool ?         |  Language  |  Grade  |                                                      Description                                                      | Validated          |
+|:----------------:|:---------------------------:|:----------:|:-------:|:---------------------------------------------------------------------------------------------------------------------:|--------------------|
+|    **Libunit**   |     :star: :star: :star:    |    **C**   | **114** |                                   _Making a unit-test framework in C using fork()._                                   | :heavy_check_mark: |
+|     **AlCu**     |     :star: :star: :star:    |    **C**   | **102** |                                  _Creating a nim misere game and making a small AI._                                  | :heavy_check_mark: |
+| **Wong kar Wai** |     :star: :star: :star:    |    **C**   | **115** |                                    _A 2048 game in the terminal using libncurses._                                    | :heavy_check_mark: |
+|     **Yasl**     | :star: :star: :star: :star: |  **YASL**  | **100** | _Solving a set of exercices and creating a script that decodes Base64 encoded images and display it on the terminal._ | :heavy_check_mark: |
+|    **Wordle**    |     :star: :star: :star:    | **Python** | **100** |                                    _Re-creating the famous game wordle in Python._                                    | :heavy_check_mark: |
+|   **Connect4**   | :star: :star: :star: :star: |    **C**   | **100** |       _A connect4 game in the terminal with a powerful AI using the minimax algorithm with Alpha Beta pruning._       | :heavy_check_mark: |
 
 </details>
