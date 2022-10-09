@@ -18,4 +18,14 @@ You can find all the project that i've done at 42 below. :arrow_down:
 | [push_swap](https://github.com/noctuelles/42-push_swap)       | :star: :star: :star: :star:        | :anger: :anger: :anger: | :heavy_check_mark:   | C          | Sorting an array of integer with the least move using push_swap instruction set.  |
 | [rush_libunit](https://github.com/noctuelles/42-rush_libunit) | :star: :star: :star: :star:        | :anger:                 | :heavy_check_mark:   | C          | Making a framework for a unit test.                                               |
 | [rush_AlCu](https://github.com/noctuelles/42-rush_AlCu)       | :star: :star: :star: :star:        | :anger: :anger:         | :heavy_check_mark:   | C          | Creating a nim misere game and making a small AI.                                 |
+
+### Rush
+
+Rushes are weekend project that starts Friday at 8:42pm and ends Sunday at 11:42pm.
+
+Subjects are usually hard and requieres a lot of investment : they can asks you to re-create a Space Invader game in your terminal using C/C++, create a Connect4 AI, or use a 30 years old forgotten language like YASL (no this is not Yet Another Scripting Language, you won't find any documentation on the web..) to display encrypted image on your terminal.
+
+I loved them all, and i hope the pedadogy of 42 Paris (or even around the world) will maintain these exercices : they provide essential challenge to keep us outside our confort zone.
+
+
 </details>
