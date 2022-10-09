@@ -2,6 +2,8 @@
 
 You can find all the project that i've done at 42 below. :arrow_down:
 
+You'll find tables with a brief description of every project. To learn more about a project, click on the project name : you'll be redirected to the github repository :file_folder:
+
 ## 42 Curriculum
 
 <details>
@@ -16,8 +18,6 @@ You can find all the project that i've done at 42 below. :arrow_down:
 | [libft](https://github.com/noctuelles/42-libft)               | :star: :star:                      | :anger:                 | :x:                  | C          | Your first C library. Your companion for the common-core.                         |
 | [born2beroot](https://github.com/noctuelles/42-born2beroot)   | :star:                             | :anger:                 | :x:                  | Shell, CLI | Diving system administration using Debian / CentOS.                               |
 | [push_swap](https://github.com/noctuelles/42-push_swap)       | :star: :star: :star: :star:        | :anger: :anger: :anger: | :heavy_check_mark:   | C          | Sorting an array of integer with the least move using push_swap instruction set.  |
-| [rush_libunit](https://github.com/noctuelles/42-rush_libunit) | :star: :star: :star: :star:        | :anger:                 | :heavy_check_mark:   | C          | Making a framework for a unit test.                                               |
-| [rush_AlCu](https://github.com/noctuelles/42-rush_AlCu)       | :star: :star: :star: :star:        | :anger: :anger:         | :heavy_check_mark:   | C          | Creating a nim misere game and making a small AI.                                 |
 
 ### Rush
 
@@ -29,14 +29,13 @@ I loved them all, and i hope the pedadogy of 42 Paris (or even around the world)
 
 You can find below all the rush that i did.
 
-|       Name       |          How cool ?         | Language |                                                      Description                                                      |
-|:----------------:|:---------------------------:|:--------:|:---------------------------------------------------------------------------------------------------------------------:|
-|    **Libunit**   |     :star: :star: :star:    |     C    |                                   _Making a unit-test framework in C using fork()._                                   |
-|     **AlCu**     |     :star: :star: :star:    |     C    |                                  _Creating a nim misere game and making a small AI._                                  |
-| **Wong kar Wai** |     :star: :star: :star:    |     C    |                                    _A 2048 game in the terminal using libncurses._                                    |
-|     **Yasl**     | :star: :star: :star: :star: |   YASL   | _Solving a set of exercices and creating a script that decodes Base64 encoded images and display it on the terminal._ |
-|    **Wordle**    |     :star: :star: :star:    |  Python  |                                    _Re-creating the famous game wordle in Python._                                    |
-|   **Connect4**   | :star: :star: :star: :star: |     C    |       _A connect4 game in the terminal with a powerful AI using the minimax algorithm with Alpha Beta pruning._       |
-
+|       Name       |          How cool ?         | Language |          Grade         |                                                      Description                                                      |
+|:----------------:|:---------------------------:|:--------:|:----------------------:|:---------------------------------------------------------------------------------------------------------------------:|
+|    **Libunit**   |     :star: :star: :star:    |     C    | 114 :heavy_check_mark: |                                   _Making a unit-test framework in C using fork()._                                   |
+|     **AlCu**     |     :star: :star: :star:    |     C    | 102 :heavy_check_mark: |                                  _Creating a nim misere game and making a small AI._                                  |
+| **Wong kar Wai** |     :star: :star: :star:    |     C    | 115 :heavy_check_mark: |                                    _A 2048 game in the terminal using libncurses._                                    |
+|     **Yasl**     | :star: :star: :star: :star: |   YASL   | 100 :heavy_check_mark: | _Solving a set of exercices and creating a script that decodes Base64 encoded images and display it on the terminal._ |
+|    **Wordle**    |     :star: :star: :star:    |  Python  | 100 :heavy_check_mark: |                                    _Re-creating the famous game wordle in Python._                                    |
+|   **Connect4**   | :star: :star: :star: :star: |     C    | 100 :heavy_check_mark: |       _A connect4 game in the terminal with a powerful AI using the minimax algorithm with Alpha Beta pruning._       |
 
 </details>
