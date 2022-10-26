@@ -1,6 +1,6 @@
 :wave: Welcome on my github profile !
 
-You can find all the project that i've done at 42 below. :arrow_down:
+You can find all the projects that i've done at 42 below. :arrow_down:
 
 You'll find tables with a brief description of every project. To learn more about a project, click on the project name : you'll be redirected to the github repository :file_folder:
 
