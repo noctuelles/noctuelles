@@ -2,7 +2,7 @@
 
 * 🌍  I'm based in Paris, France
 * 🚀  I'm currently studying at 42 Paris, looking to find an internship !
-* 🧠  I'm learning Python, Javascript, and Rust. 
+* 🧠  I'm learning Python, Javascript / Typescript, and Rust. 
 
 You can find all the projects that i've done at 42 below. :arrow_down:
 
