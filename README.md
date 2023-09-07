@@ -1,7 +1,7 @@
 :wave: Hi, i'm Paul 👋, welcome on my github profile !
 
 * 🌍  I'm based in Paris, France
-* 🚀  I'm currently studying at 42 Paris, looking to find an internship !
+* 🚀  Working @ Terros in France as a Full-Stack developper.
 * 🧠  I'm focusing learning Javascript / Typescript and the NodeJS runtime.
 
 You can find all the projects that i've done at 42 below. :arrow_down:
