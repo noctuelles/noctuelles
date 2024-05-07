@@ -1,8 +1,8 @@
 :wave: Hi, i'm Paul 👋, welcome on my github profile !
 
 * 🌍  I'm based in Paris, France
-* 🚀  Working @ Terros in France as a Full-Stack developper.
-* 🧠  I'm focusing learning Javascript / Typescript and the NodeJS runtime.
+* 🚀  Focusing on the advanced part of the 42 curriculum.
+* 🧠  I'm focusing learning mathematics, low-level system stuff !
 
 You can find all the projects that i've done at 42 below. :arrow_down:
 
