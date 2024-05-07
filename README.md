@@ -2,7 +2,7 @@
 
 * 🌍  I'm based in Paris, France
 * 🚀  Focusing on the advanced part of the 42 curriculum.
-* 🧠  I'm focusing learning mathematics, low-level system stuff !
+* 🧠  Learning mathematics, low-level system stuff !
 
 You can find all the projects that i've done at 42 below. :arrow_down:
 
