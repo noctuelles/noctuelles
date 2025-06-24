@@ -1,10 +1,9 @@
-:wave: Hi, i'm Paul 👋, welcome on my github profile !
+Hi, i'm Paul, welcome on my github profile.
 
-* 🌍  I'm based in Paris, France
-* 🚀  Focusing on the advanced part of the 42 curriculum.
-* 🧠  Learning mathematics, low-level system stuff !
+* 🌍  I'm based in Paris, France.
+* 🧠  I am focused on low level programming and and security.
 
-You can find all the projects that i've done at 42 below. :arrow_down:
+Lots of my project on this Github profile are related to 42. They are always prefixed with `42-`.
 
 You'll find tables with a brief description of every project. To learn more about a project, click on the project name : you'll be redirected to the github repository :file_folder:
 
